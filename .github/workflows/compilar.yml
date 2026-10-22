@@ -1,4 +1,4 @@
-name: Compilar Next Photo
+name: Compilar Photonex
 
 on:
   workflow_dispatch:
@@ -21,6 +21,6 @@ jobs:
     with:
       proyecto: photocraft
       upstream: storytold/photocraft
-      nombre: Next Photo
+      nombre: Photonex
       ref: ${{ inputs.ref }}
       publicar: ${{ inputs.publicar }}

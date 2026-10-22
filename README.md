@@ -1,4 +1,4 @@
-# Next Photo
+# Photonex
 
 Editor de imágenes de la suite Jacnex: capas, máscaras, texto y archivos PSD reales.
 
